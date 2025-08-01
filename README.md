@@ -1,5 +1,6 @@
-# NESqVic-FTL-Trainer
+# NESqVic FTL Trainer
 Исходники для тренера к игре Faster Than Light.
+Сборник обучающих статей по созданию тренера к игре Faster Than Light.
 
 
 
