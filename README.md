@@ -1,8 +1,12 @@
-# NESqVic FTL Trainer
-Исходники для тренера к игре Faster Than Light.
-Сборник обучающих статей по созданию тренера к игре Faster Than Light.
+# NESqVic Labilynth
+Проба пера в литРПГ.
+
+--------------------
+
+Содержание:
 
 
 
------
+--------------------
+
 Ссылка для донатов: https://boosty.to/nesqvic83/donate
