@@ -1,0 +1,9 @@
+{
+  "editor.wordWrap": "bounded",
+  "html.format.wrapLineLength": 80,
+  "editor.rulers": [
+    80
+  ],
+  "diffEditor.wordWrap": "on",
+  "editor.formatOnSave": false
+}

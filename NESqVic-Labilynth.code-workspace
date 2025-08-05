@@ -4,5 +4,12 @@
 			"path": "."
 		}
   ],
-  "settings": {}
+  "settings": {
+    "editor.wordWrap": "bounded",
+    "editor.rulers": [
+      80
+
+    ],
+    "chat.editor.wordWrap": "on"
+  }
 }
